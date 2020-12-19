@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+dependencies:
+  - ase
+  - hyperspy-base
+  - hyperspy-gui-ipywidgets
+  - nglview
+  - notebook
+  - pyprismatic
