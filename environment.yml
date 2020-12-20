@@ -2,8 +2,7 @@ channels:
   - conda-forge
 dependencies:
   - ase
-  - hyperspy-base
   - hyperspy-gui-ipywidgets
+  - libblas=*=*mkl
   - nglview
-  - notebook
   - pyprismatic
